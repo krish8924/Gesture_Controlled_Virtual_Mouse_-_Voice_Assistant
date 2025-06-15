@@ -5,7 +5,7 @@ A Python-based virtual mouse that uses **hand gestures** and **voice commands** 
 ---
 
 ## 📽️ Demo
-![Demo Screenshot](demo_media/Screenshot%202024-04-07%20100848.png)
+[Demo Screenshot](demo_media/Screenshot%202024-04-07%20100848.png)
 <!-- You can replace this with a demo GIF or link to a video -->
 
 ---
