@@ -12,7 +12,7 @@ A Python-based virtual mouse that uses **hand gestures** and **voice commands** 
 
 ## 🚀 Features
 
-- 👆 Move cursor using hand
+- [👆 Move cursor using hand].()
 - ✌️ Click and right-click with finger combinations
 - 👉 Scroll using finger gestures
 - 🎤 Voice assistant for basic commands
