@@ -18,7 +18,7 @@ A Python-based virtual mouse that uses **hand gestures** and **voice commands** 
 - [👉 Scroll using finger gestures](demo_media/scrolling.png)
 - [✊ Drag and Drop](demo_media/drag_drop.png)
 - [✌️ double_click](demo_media/double_click.png)
-- 🎤 Voice assistant for basic commands
+- [🎤 Voice assistant for basic commands](demo_media/voice commands/)
 - 🧠 Real-time gesture detection using MediaPipe
 
 ---
