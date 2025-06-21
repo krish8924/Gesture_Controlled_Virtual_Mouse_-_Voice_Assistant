@@ -36,7 +36,7 @@ A Python-based virtual mouse that uses **hand gestures** and **voice commands** 
 ---
 
 ## 🖥️ Installation
-
+- [✌️To install libraries and To run The code Follow this Steps ](demo_media/cursor_move.png)
 ### 1️⃣ Clone the Repository
 
 ```bash
