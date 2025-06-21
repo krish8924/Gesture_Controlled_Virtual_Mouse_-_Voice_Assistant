@@ -1,6 +1,6 @@
 how to install and run the Project Gesture Controlled Virtual Mouse and voice assitant 
 
-1.download zip on google drive https://drive.google.com/drive/folders/1Cy21nhp0VSABMBpLX_mm-xmpeNi-4yvb?usp=drive_link
+1.download zip on google drive https://drive.google.com/file/d/1FpBMzb5L4IxcuVfGVDKLI-B6DJihi0fo/view?usp=sharing
 
 2.After that unzip and open in VS Code its necessary required python extension 
 
