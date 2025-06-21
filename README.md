@@ -36,7 +36,7 @@ A Python-based virtual mouse that uses **hand gestures** and **voice commands** 
 ---
 
 ## 🖥️ Installation
-- [🧑‍💻To install libraries and To run The code Follow this Steps ](src/howtoinstallandruntheProject.txt)
+- [🧑‍💻To install libraries and To run The code Follow this Steps ](src/how_to_install_and_run_the_Project.txt)
 ### 1️⃣ Clone the Repository
 
 ```bash
